@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning HTML/CSS
-- 💬 Ask me about Nothing :D
+🌱 I’m currently learning HTML/CSS
+💬 Ask me about Nothing :D
 -->
 
 | Ime | Prezime | Broj dolazaka|
